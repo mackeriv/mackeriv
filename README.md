@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Codewars Badge](https://www.codewars.com/users/mackeriv/badges/small)](https://www.codewars.com/users/mackeriv/) 
+
 <!--
 **mackeriv/mackeriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
